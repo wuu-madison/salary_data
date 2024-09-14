@@ -10,3 +10,5 @@ Also see the [related tool](https://wuu-madison.github.io/salaries)
 for comparing a UW-Madison employee's salary to others with the same
 title. It is based on the design of Harald Kliems's [TTC Salary
 mapping tool](https://haraldkliems.shinyapps.io/My_TTC_salary/).
+
+The data are also available in a [public Google Drive folder](https://drive.google.com/drive/folders/1kpRy_g0RB04DE2HWsEGa7aareKl6vdIj).
